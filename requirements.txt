@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 jupyterlab
 openpyxl
+statsmodels
+prophet
+ipywidgets
